@@ -21,4 +21,4 @@
 ### 18.  git add natalia-poliak/README.MD
 ### 19.  git commit -m "add readme"
 ### 20.  git `status`
-### 21.  git push --set upstream origin natalia-poliak-pr
+### 21.  git push --set upstream upstream natalia-poliak-pr
