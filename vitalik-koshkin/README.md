@@ -20,6 +20,6 @@ My command
 
 `git commit -m "bootstrap"`
 
-`git push -u origin master`
+`git push --set-upstream origin vitalik-koshkin-pr`
 
 
