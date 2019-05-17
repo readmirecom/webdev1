@@ -1,10 +1,10 @@
 # MarkDown
 
-* git clone git@github.com:just-n1ce/webdev1.git
+* git clone git@github.com:dimarogkov/webdev1.git
 
 * git branch
 
-* git checkout olexandr-dudar-pr
+* git checkout dima-rogkov-pr
 
 * git add .
 
@@ -12,9 +12,9 @@
 
 * git pull
 
-* git pull origin olexandr-dudar-pr 
+* git pull origin dima-rogkov-pr
 
-* git push origin olexandr-dudar-pr 
+* git push origin dima-rogkov-pr
 
-* git push --set-upstream origin olexandr-dudar-pr
+* git push --set-upstream origin dima-rogkov-pr
 
