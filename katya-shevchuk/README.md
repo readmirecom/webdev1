@@ -14,8 +14,8 @@
 ***
 
 - touch README.md
-    *git add .
-    *git commit -m
+    * git add .
+    * git commit -m
 
 ***
 
