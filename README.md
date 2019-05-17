@@ -1,5 +1,20 @@
-# What's this?
-If you are our student – create pull request from your specific branch to this repository
+# MarkDown
 
-# I'm not your student
-Well, maybe next time we can teach you, don't get upset
+* git clone git@github.com:just-n1ce/webdev1.git
+
+* git branch
+
+* git checkout olexandr-dudar-pr
+
+* git add .
+
+* git commit -m "bootstrap"
+
+* git pull
+
+* git pull origin olexandr-dudar-pr 
+
+* git push origin olexandr-dudar-pr 
+
+* git push --set-upstream origin olexandr-dudar-pr
+
