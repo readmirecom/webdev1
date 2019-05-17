@@ -16,3 +16,5 @@
 
 * git push origin olexandr-dudar-pr 
 
+* git push --set-upstream origin olexandr-dudar-pr
+
