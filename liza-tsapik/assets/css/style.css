@@ -1,0 +1,88 @@
+body {
+    font-family: 'Nunito';
+    font-size: 16px;
+    color: black;
+    line-height: 1.6;
+}
+
+header {
+    margin-top: 100px;
+    margin-left: 150px;
+    margin-right: 150px;
+    color: #007fff;
+    font-weight: 800;
+
+}
+
+label.header_text {
+    margin-top: 18px;
+    margin-bottom: 18px;
+    font-size: 12px;
+}
+
+p.motivation {
+    color:black;
+    font-size: 48px;
+    margin: 30px auto;
+    width: 500px;
+}
+
+b.success {
+    color: #007fff;
+}
+
+.icons {
+    width: 30px;
+    margin: 0 auto;
+}
+
+.img_2020 {
+    margin: 0 29px 0 32px;
+}
+
+.img_mb60 {
+    margin-bottom: 60px;
+}
+
+.text_90 {
+    transform: rotate(-90deg);
+}
+
+.p_title_1{
+    margin: 0;
+    left: 174px;
+}
+
+.a_top_595 {
+    top: 595px;
+    position: absolute;
+}
+
+.a_top_578 {
+    top: 578px;
+    position: absolute;
+}
+
+.a_top_1931 {
+    top: 1931px;
+    position: absolute;
+}
+
+h3 {
+    margin-bottom: 30px;
+}
+
+.pdr_83 {
+    padding-right: 83px;
+}
+
+.a_top_2170 {
+    top: 2170px;
+    position: absolute;
+}
+
+.a_top_2442 {
+    top: 2442px;
+    position: absolute;
+    width: 100%;
+}
