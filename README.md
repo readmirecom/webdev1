@@ -1,20 +1,5 @@
-# MarkDown
+# What's this?
+If you are our student – create pull request from your specific branch to this repository
 
-* git clone git@github.com:dimarogkov/webdev1.git
-
-* git branch
-
-* git checkout dima-rogkov-pr
-
-* git add .
-
-* git commit -m "bootstrap"
-
-* git pull
-
-* git pull origin dima-rogkov-pr
-
-* git push origin dima-rogkov-pr
-
-* git push --set-upstream origin dima-rogkov-pr
-
+# I'm not your student
+Well, maybe next time we can teach you, don't get upset
